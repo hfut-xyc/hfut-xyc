@@ -1,16 +1,13 @@
-### Hi there 👋
-
-<!--
-**hfut-xyc/hfut-xyc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+|\   ____\|\  ___ \ |\   ___  \|\   ____\|\  \|\  \|\  ___ \ |\  \     |\  \         
+\ \  \___|\ \   __/|\ \  \\ \  \ \  \___|\ \  \\\  \ \   __/|\ \  \    \ \  \        
+ \ \  \    \ \  \_|/_\ \  \\ \  \ \_____  \ \   __  \ \  \_|/_\ \  \    \ \  \       
+  \ \  \____\ \  \_|\ \ \  \\ \  \|____|\  \ \  \ \  \ \  \_|\ \ \  \____\ \  \____  
+   \ \_______\ \_______\ \__\\ \__\____\_\  \ \__\ \__\ \_______\ \_______\ \_______\
+    \|_______|\|_______|\|__| \|__|\_________\|__|\|__|\|_______|\|_______|\|_______|
+                                  \|_________|                                                                                                                                   
+A lazy student majored in computer science, as is shown in Statistics 
+```
+## Statistics
+![Stats](https://github-readme-stats.vercel.app/api?username=hfut-xyc)
+![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=hfut-xyc&hide=ipynb,html&layout=compact)
